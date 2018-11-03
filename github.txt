@@ -1,0 +1,5 @@
+先去老师那里点击了fork,
+然后git clone （你的git项目链接），
+下载好后。git branch -a命令看一下分支
+git checkout -b work master(其中work为你新建的特性分支，你顺便写都应该ok，master为你当前坐在的分支)
+然后git add (修改的文件名) ，git commint -m "说明"
